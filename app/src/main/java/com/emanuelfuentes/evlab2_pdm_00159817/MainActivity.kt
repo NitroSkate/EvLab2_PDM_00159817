@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity(), Estatico.OnFragmentInteractionListener
 
 
     override fun onClickButton2() {
-
+        //GG WP :'V
     }
 
 
